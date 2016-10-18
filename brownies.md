@@ -20,5 +20,5 @@
 	
 Kilden til Opskriften er: [link](http://www.bageglad.dk/verdens-bedste-brownies/)
 
-!brownies[brownies.jpg]
+![brownies](brownies.jpg)
 
