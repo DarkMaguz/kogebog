@@ -17,3 +17,8 @@
 	#Smør en bageform og drys rasp i - tøm resterne ud. Fordel browniedejen i bageformen (dejen behøver ikke nå helt ud til siderne, den fordeler sig selv når den bliver bagt). Drys hakkede hasselnødder over (valgfrit).
 	#Bag brownien ved 175 grader i cirka 30 minutter - pas endelig på, at den ikke får for meget! Den er færdig når en strikkepind der stikkes i kagen, stadig har lidt dej klæbende til sig.
 	#Lad kagen køle helt af i formen, før der skæres af den.
+	
+Kilden til Opskriften er: [link](http://www.bageglad.dk/verdens-bedste-brownies/)
+
+!brownies[brownies.jpg]
+
